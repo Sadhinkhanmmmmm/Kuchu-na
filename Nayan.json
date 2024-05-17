@@ -1,0 +1,25 @@
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "bangla",
+  "notification": true,
+  "approval": false,
+  "BOTNAME": "JOY-BOT",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100080426943176",
+    "61557115743290"
+  ],
+  "ADMINBOT": [
+    "100082663196692",
+    "61557115743290"
+  ],
+  "OWNER": ["100082663196692"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working"
+}
